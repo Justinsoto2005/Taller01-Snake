@@ -15,15 +15,35 @@ Complete esta tabla al final del taller.
 
 Push exitoso:
 
-![Push exitoso del líder](capturas/lider_push_exitoso.png)
+![Push exitoso del líder](Capturas/lider_push_exitoso.png)
 
 ### Integrante 1
 
 Error antes de resolver conflicto:
 
-![Error Integrante 1](capturas/integrante1_error.png)
+![Error Integrante 1](Capturas/integrante1_error.png)
 
 Push exitoso después de resolver conflicto:
 
-![Push exitoso Integrante 1](capturas/integrante1_push_exitoso.png)
+![Push exitoso Integrante 1](Capturas/integrante1_push_exitoso.png)
+
+### Integrante 2
+
+Error antes de resolver conflicto:
+
+![Error Integrante 2](Capturas/integrante2_error.png)
+
+Push exitoso después de resolver conflicto:
+
+![Push exitoso Integrante 2](Capturas/integrante2_push_exitoso.png)
+
+### Integrante 3
+
+Error antes de resolver conflicto:
+
+![Error Integrante 3](Capturas/integrante3_error.png)
+
+Push exitoso después de resolver conflicto:
+
+![Push exitoso Integrante 3](Capturas/integrante3_push_exitoso.png)
 ```
