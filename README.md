@@ -10,7 +10,7 @@ Complete esta tabla al final del taller.
 | Integrante 2 |Steven Correa|SJxX1511|cambiar botón y colector de gold|
 | Integrante 3 |Ezequiel Zuñiga|ezunmur|cambiar botón y colector|
 
-```markdown
+markdown
 ### Líder
 
 Push exitoso:
@@ -46,4 +46,3 @@ Error antes de resolver conflicto:
 Push exitoso después de resolver conflicto:
 
 ![Push exitoso Integrante 3](Capturas/integrante3_push_exitoso.png)
-```
